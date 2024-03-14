@@ -1,0 +1,145 @@
+body{
+    font-family: Roboto;
+    line-height: normal;
+}
+a{
+    text-decoration:none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+.header-logo{
+    color: #000;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 0.78px;
+
+}
+
+.web{
+    color: #2196F3;
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+letter-spacing: 0.78px;
+}
+
+.nav-link{
+    color: #212121;
+font-size: 14px;
+font-weight: 500;
+letter-spacing: 0.28px;
+}
+
+.nav-link:hover{
+    color: #2196F3;
+}
+
+.contact{
+    color: #757575;
+font-size: 14px;
+font-weight: 500;
+letter-spacing: 0.28px;
+}
+.contact:hover{
+    color: #2196F3;
+}
+
+.effect-title{
+    color: #FFF;
+text-align: center;
+font-size: 44px;
+font-weight: 900;
+line-height: 60px; /* 136.364% */
+letter-spacing: 2.64px;
+text-transform: uppercase;
+}
+
+.effect-button{
+    color: #FFF;
+text-align: center;
+font-size: 16px;
+font-weight: 700;
+line-height: 30px; /* 187.5% */
+letter-spacing: 0.96px;
+}
+
+.details-title{
+    color: #212121;
+font-size: 14px;
+font-weight: 700;
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.details-text{
+    color: #757575;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+letter-spacing: 0.42px;
+}
+
+.about-title{
+    color: #212121;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+letter-spacing: 1.08px;
+}
+
+.team-title{
+    color: #212121;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+letter-spacing: 1.08px;
+}
+
+.team-name{
+    color: #212121;
+text-align: center;
+font-size: 16px;
+font-weight: 500;
+letter-spacing: 0.48px;
+}
+
+.team-work{
+    color: #757575;
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+letter-spacing: 0.48px;
+}
+
+.footer-logo{
+    color: #2196F3;
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+letter-spacing: 0.78px;
+}
+
+.Studio {
+    color: #FFF;
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+letter-spacing: 0.78px;
+}
+
+.footer-adress{
+    color: #FFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+letter-spacing: 0.42px;
+}
+
+footer{
+    background: #2F303A;
+}
