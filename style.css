@@ -1,3 +1,10 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+    padding 25px 0;
+}
+
 body{
     font-family: Roboto;
     line-height: normal;
@@ -142,4 +149,23 @@ letter-spacing: 0.42px;
 
 footer{
     background: #2F303A;
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.effect-title{
+    background: #2F303A;
+}
+
+.section-list{
+    margin: 0 auto;
+    text-align: center;
+}
+.section-button{
+    margin: 0 auto;
+    text-align: center;
 }
