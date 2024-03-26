@@ -1,3 +1,4 @@
+
 .header{
     display: flex;
     align-items: center;
@@ -8,6 +9,11 @@
 body{
     font-family: Roboto;
     line-height: normal;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 a{
     text-decoration:none;
@@ -64,6 +70,10 @@ font-weight: 900;
 line-height: 60px; /* 136.364% */
 letter-spacing: 2.64px;
 text-transform: uppercase;
+}
+
+.effect-list{
+    justify-content: space-between;
 }
 
 .effect-button{
@@ -155,11 +165,6 @@ footer{
     background: #2F303A;
 }
 
-.container{
-    width: 1200px;
-    margin: 0 auto;
-    padding: 0 15px;
-}
 
 .effect-title{
     background: #2F303A;
@@ -198,3 +203,6 @@ footer{
     margin-top: 94px;
 }
 
+.footer{
+    background: #2F303A;
+}
